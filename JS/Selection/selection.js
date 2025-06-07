@@ -35,3 +35,33 @@ paragraphNodelist.forEach((paragraph, index) => {
   paragraph.style.color = 'green';
   paragraph.textContent = `Ini index ke-${index + 1}`;
 });
+
+
+// const satuKotak = document.querySelector('.kotak');
+// const semuaKotak = document.querySelectorAll('.kotak'); // semua kotak
+
+// // Tugas 1
+// const judulDOM = document.getElementById('judulLatihan');
+// const paragrafList = document.querySelectorAll('.deskripsiLatihan');
+// const tombolDOM = document.getElementById('tombolLatihan');
+// tombolDOM.innerHTML = 'Berhasil diberi nama "Tombol" ';
+
+
+// const satuKotak = document.querySelector('.kotak');
+// const semuaKotak = document.querySelectorAll('.kotak'); // semua kotak
+
+// // Tugas 1
+// const judulDOM = document.getElementById('judulLatihan');
+// const paragrafList = document.querySelectorAll('.deskripsiLatihan');
+// const tombolDOM = document.getElementById('tombolLatihan');
+// tombolDOM.innerHTML = 'Berhasil diberi nama "Tombol" ';
+
+
+// const satuKotak = document.querySelector('.kotak');
+// const semuaKotak = document.querySelectorAll('.kotak'); // semua kotak
+
+// // Tugas 1
+// const judulDOM = document.getElementById('judulLatihan');
+// const paragrafList = document.querySelectorAll('.deskripsiLatihan');
+// const tombolDOM = document.getElementById('tombolLatihan');
+// tombolDOM.innerHTML = 'Berhasil diberi nama "Tombol" ';
