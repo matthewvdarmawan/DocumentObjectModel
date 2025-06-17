@@ -42,3 +42,14 @@ sectionB.replaceChild(h2Baru, p4);
 pBaru.style.backgroundColor = 'lightgreen';
 h2Baru.style.backgroundColor = 'lightgreen';
 liBaru.style.backgroundColor = 'lightgreen';
+
+// const sectionB = document.getElementById('b');
+// const p4 = sectionB.querySelector('p');
+// const h2Baru = document.createElement('h2');
+// const teksH2Baru = document.createTextNode('judul baru');
+// h2Baru.appendChild(teksH2Baru);
+// sectionB.replaceChild(h2Baru, p4);
+
+// pBaru.style.backgroundColor = 'lightgreen';
+// h2Baru.style.backgroundColor = 'lightgreen';
+// liBaru.style.backgroundColor = 'lightgreen';
